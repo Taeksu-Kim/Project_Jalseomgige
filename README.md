@@ -34,7 +34,7 @@ CUDA가 빌드된 Opencv가 없으면 코드 실행은 되지만 Openpose에서 
 https://github.com/Hzzone/pytorch-openpose 의 model 폴더 안에 있는 파일들을 이 프로젝트의 model 폴더 안에 넣어줌(Openpose의 모델파일들임)
 
 ### Yolact 환경 구축:
-https://github.com/dbolya/yolact 를 참고하여 구축.
+https://github.com/dbolya/yolact 를 참고하여 구축.   
 환경 구축 중 에러가 날 경우 참고 자료에 있는 일본 블로그들 참고. 구글 번역기를 이용하면 어느정도 이해가 가능함
 
 
