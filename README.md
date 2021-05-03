@@ -1,6 +1,6 @@
 # 잘섬기게 프로젝트   
 
-[![output 4points](http://img.youtube.com/vi/UFJKNmRXnVA/0.jpg)](https://youtu.be/UFJKNmRXnVA) 
+[![output 4points](http://img.youtube.com/vi/UFJKNmRXnVA/0.jpg)](https://youtu.be/UFJKNmRXnVA)   
 이미지 클릭시 유튜브 동영상으로 링크됩니다.
 
 # 파일 설명   
