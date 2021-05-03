@@ -1,7 +1,9 @@
 # 잘섬기게 프로젝트   
 
+[![output 4points](http://img.youtube.com/vi/UFJKNmRXnVA/0.jpg)](https://youtu.be/UFJKNmRXnVA) 
 # 파일 설명   
-proto_final.py : 실행파일(침대 영역 세팅, 실시간, 비디오를 이용한 낙상,욕창 위험 탐지, 알람)   
+proto_final.py : 실행파일(침대 영역 세팅, 실시간, 비디오를 이용한 낙상,욕창 위
+험 탐지, 알람)   
 proto_test2.py : 샘플용 실행파일(침대 대신 컵, 오른 손목 포인트를 이용한 알람, 방향변경 알람의 기준시간이 더 짧음)   
 eval.py : Yolact 원본 실행파일. https://github.com/dbolya/yolact  를 참고하여 실행인자 입력시켜줘야 함   
 # 튜닝 파트   
@@ -23,3 +25,4 @@ Openpose  https://github.com/Hzzone/pytorch-openpose
 Windows 환경에서 Yolact 구동 환경 구축 일본 블로그  https://aulta.co.jp/archives/8262   
 Yolact 구동 환경 중 DCNv2 오류 해결 일본 블로그  https://note.com/thedesignium/n/n0ba51afe9776   
 Yolact 구동 환경 중 coco api 설치 에러 해결 블로그 http://blog.livedoor.jp/tmako123-programming/archives/51025848.html   
+
