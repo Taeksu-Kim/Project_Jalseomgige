@@ -9,7 +9,7 @@ src/util.py를 참고하여 실행 파일 내에서 받아와서 사용하는 �
 data/config.py를 참고하여 실행 파일 내에서 사용하는 값. (객체별 index, 객체명) 
 
 # 구동 환경 구축:   
-1. Openpose 환경 구축
+1. Openpose 환경 구축   
 CUDA가 빌드된 Opencv가 없으면 코드 실행은 되지만 Openpose에서 상당한 끊김이 있으므로 GPU사용이 가능한 Opencv 환경 준비   
 https://github.com/Hzzone/pytorch-openpose 의 model 폴더 안에 있는 파일들을 이 프로젝트의 model 폴더 안에 넣어줌(Openpose의 모델파일들임)
 
