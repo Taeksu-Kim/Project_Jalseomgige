@@ -1,9 +1,9 @@
 # 잘섬기게 프로젝트   
 
 # 파일 설명   
-proto_final.py 실행파일(침대 영역 세팅, 실시간, 비디오를 이용한 낙상,욕창 위험 탐지, 알람)   
-proto_test2.py 샘플용 실행파일(침대 대신 컵, 오른 손목 포인트를 이용한 알람, 방향변경 알람의 기준시간이 더 짧음)   
-eval.py 원본 Yolact 실행파일. https://github.com/dbolya/yolact  를 참고하여 실행인자 입력시켜줘야 함   
+## proto_final.py 실행파일(침대 영역 세팅, 실시간, 비디오를 이용한 낙상,욕창 위험 탐지, 알람)   
+## proto_test2.py 샘플용 실행파일(침대 대신 컵, 오른 손목 포인트를 이용한 알람, 방향변경 알람의 기준시간이 더 짧음)   
+## eval.py 원본 Yolact 실행파일. https://github.com/dbolya/yolact  를 참고하여 실행인자 입력시켜줘야 함   
 # 조정 파트 
 
 
