@@ -22,7 +22,7 @@
 5. 비측면일 경우 양쪽 어깨의 x좌표 값을 비교하여 앞쪽, 뒤쪽 구분
 6. 한쪽 방향으로 일정이상 있을 시 자세 변경 경고
 
-![욕창방지 알고리즘 ](https://user-images.githubusercontent.com/63130907/116949923-89c3b400-acbe-11eb-8f14-27f86712559f.jpg)
+![욕창방지 알고리즘 ](https://user-images.githubusercontent.com/63130907/116949988-b081ea80-acbe-11eb-8818-1df8a8ded829.jpg)
 ![자세 샘플](https://user-images.githubusercontent.com/63130907/116949772-2174d280-acbe-11eb-9a2b-16c80bea8cf4.jpg)
 
 
