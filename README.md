@@ -19,7 +19,8 @@
 5. 비측면일 경우 양쪽 어깨의 x좌표 값을 비교하여 앞쪽, 뒤쪽 구분
 6. 한쪽 방향으로 일정이상 있을 시 자세 변경 경고
 
-![욕창방지 알고리즘](https://user-images.githubusercontent.com/63130907/116947046-af4cbf80-acb6-11eb-8376-fe2e47d8b9d2.jpg)
+![욕창방지 알고리즘](https://user-images.githubusercontent.com/63130907/116947363-81b44600-acb7-11eb-951f-3849705c110d.jpg)
+
 
 # 파일 설명   
 proto_final.py : 실행파일(침대 영역 세팅, 실시간, 비디오를 이용한 낙상,욕창 위
